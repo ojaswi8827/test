@@ -1,0 +1,1 @@
+1. To change local project username and email use "git config user.name "<username>" and email w/o --global option.
