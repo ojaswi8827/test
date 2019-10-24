@@ -1,1 +1,3 @@
-1. To change local project username and email use "git config user.name "<username>" and email w/o --global option.
+01. To change local project username and email use "git config user.name "<username>" and email w/o --global option
+02. To check status of git config at this point of time, use "git config --list" command.
+03. Help syntax: git help <verb>, ex: git help config
